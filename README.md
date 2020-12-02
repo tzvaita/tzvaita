@@ -9,6 +9,6 @@ My name is Tennyson Takudzwa Zvaita.
 - 👯 I’m looking to collaborate on more Ruby or JavaScript projects.
 - 🤔 I’m looking for help with job opportunities
 - 💬 Ask me about Ruby, JavaScript, Rails, React and Redux.
-- 📫 How to reach me: [Email](tzvaita@gmail.com)
+- 📫 How to reach me: [Email](tzvaita@gmail.com).
 - 😄 Pronouns: He/Him.
 
