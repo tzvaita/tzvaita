@@ -12,3 +12,4 @@ My name is Tennyson Takudzwa Zvaita.
 - 📫 How to reach me: [Email](tzvaita@gmail.com).
 - 😄 Pronouns: He/Him.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tzvaita&show_icons=true&theme=tokyonight)
