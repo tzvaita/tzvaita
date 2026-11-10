@@ -1,13 +1,9 @@
-### Hi there 👋
+### Hi, I'm Tenny 👋
 
-My name is Tennyson Takudzwa Zvaita.
+Python and Ruby developer in Harare, Zimbabwe (UTC+2), working remotely since 2022.
 
-
-
-- 🔭 Ruby on Rails Developer at Rentola
-- 💬 Ask me about Ruby, JavaScript, Rails, React and Redux.
-- 📫 How to reach me: [Email](tzvaita@gmail.com).
-- 😄 Pronouns: He/Him.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tzvaita&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzvaita&theme=tokyonight)
+- **Now:** building and maintaining 960+ production Scrapy spiders across 37 countries for Revagroup, a Denmark-based rental listings platform.
+- **Before:** 2.5 years as a Ruby on Rails engineer in the same fully remote team.
+- **Good at:** getting past anti-bot protection (Cloudflare, DataDome, Akamai), reverse-engineering site backends, and catching the silent failures that make scraped data look right when it isn't.
+- **Stack:** Python, Scrapy, XPath, Playwright, nodriver, Ruby on Rails, PostgreSQL, Docker, Linux.
+- **Reach me:** tzvaita@gmail.com · [LinkedIn](https://www.linkedin.com/in/tennyzvaita/)
